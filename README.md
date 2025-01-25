@@ -1,2 +1,3 @@
 # yash-demo
-This iş my 1st repo
+This iş my 1st repository
+Author-Yashvreddy
