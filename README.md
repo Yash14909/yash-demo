@@ -24,8 +24,8 @@ This is a simple HTML webpage featuring a styled link to [GitHub](https://github
    * README.md
 [![GitHub Cover](https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg)](https://github.com/)
 4.🛠️ Technologies Used
-   * HTML5
-   * CSS3
+     * HTML5
+     * CSS3
 
 
 
